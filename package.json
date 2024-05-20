@@ -1,5 +1,6 @@
 {
   "name": "qr-code-viewer",
+  "homepage": "https://archimedes4.github.io/qr-code-viewer/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
